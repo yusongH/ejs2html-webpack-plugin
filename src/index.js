@@ -1,4 +1,4 @@
-const ejs2html = require('./lib/ejs2html')
+const ejs2html = require('../lib/ejs2html')
 
 class ejs2htmlWebpackPlugin {
   constructor(options) {
